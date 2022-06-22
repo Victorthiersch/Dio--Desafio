@@ -9,4 +9,6 @@
 - ls-a (Mostra arquivos ocultos)
 - Commit (Adicona ao repositório local)
 - ADD *(Adiciona a staging area)
+- git commit -m"adicionar comentario (para colocar em repositório local)
+- git push origin main (adiciona tudo que foi modificado para nuvem (github)
 - 
